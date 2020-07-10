@@ -87,7 +87,9 @@ This system would provide for the needed advertising functionality of both publi
 
 ![Image of Cohorts](https://user-images.githubusercontent.com/14223042/87160801-c7170b00-c280-11ea-8354-845426fa0188.png)
 
+![cohorts](https://user-images.githubusercontent.com/14223042/87161230-7358f180-c281-11ea-8577-aec36a226417.png)
 
+![Exchange](https://user-images.githubusercontent.com/14223042/87161326-9c798200-c281-11ea-8504-18911b463e4e.png)
 
 Notes:
 Users will be able to see which gatekeepers have data on them, and what cohorts they are a part of.
