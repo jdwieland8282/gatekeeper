@@ -85,7 +85,7 @@ This system would provide for the needed advertising functionality of both publi
 5. Id boundary
 6. Publishers pass cohort information to Ad Exchange
 
-![Image of Yaktocat](https://drive.google.com/file/d/1CO0bX3hi655T7VGGshSYeZn135eqMXog/view?usp=sharing)
+![Image of Cohorts](https://user-images.githubusercontent.com/14223042/87160801-c7170b00-c280-11ea-8354-845426fa0188.png)
 
 
 
